@@ -1,4 +1,4 @@
-FROM jenkins:latest
+FROM jenkins/jenkins:lts
 MAINTAINER Cormac Cannon <cormac.cannon@neuromoddevices.com>
 
 USER root
